@@ -1,12 +1,8 @@
-# AIML-Recruitment-2026-Joy
 
-Coding Ninjas 10X — AI/ML Recruitment Task (Second Years)
-Task 1: Air Quality Forecasting
 
 ---
 
 ## Table of Contents
-- [Candidate Details](#candidate-details)
 - [Tasks Completed](#tasks-completed)
 - [Problem Statement](#problem-statement)
 - [Dataset](#dataset)
@@ -20,10 +16,7 @@ Task 1: Air Quality Forecasting
 
 ---
 
-## Candidate Details
-- **Name:** Joy
-- **Institute:** SRM Institute of Science and Technology, Ramapuram
-- **Year:** Second year
+
 
 ## Tasks Completed
 - [x] Task 1: Air Quality Forecasting
